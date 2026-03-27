@@ -1,0 +1,6 @@
+[submodule "Otimizacao_tamanho_tubos"]
+	path = Otimizacao_tamanho_tubos
+	url = https://github.com/diniscosta48/Otimizacao_tamanho_tubos.git
+[submodule "EMS"]
+	path = EMS
+	url = https://github.com/diniscosta48/EMS.git
